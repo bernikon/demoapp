@@ -17,5 +17,5 @@ public class ReservationModel {
     private Date date;
     private String adres;
 
-// 1:40:36 nagranie z 08.10
+
 }
